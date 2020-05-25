@@ -12,11 +12,10 @@ _______________________
 - Git
 
 ### Files required for Heroku:
-'''pyhton
 - templates : folder containing your index.html file
 - Procfile : Procfile is a mechanism for declaring what commands are run by your application’s dynos on the Heroku platform
 - requirements.txt : containing the list of all the required libraries.
-'''
+
 Rest are the basic Flask App file 
 
-Steps for hosting flask on [Heroku-Hub](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) 
+Steps for hosting flask on [Heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) 

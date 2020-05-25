@@ -22,6 +22,7 @@ Rest are the basic Flask App file
 - create a virtual env: conda create --name venv
 - do: pip install flask gunicorn
 - get all the files from here or create new
+- Inside the folder perform the following steps
 - create and push all the files in a git repo: 
   - git add . 
   - git commit -m 'first commit'

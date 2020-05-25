@@ -21,10 +21,11 @@ Rest are the basic Flask App file
 ### Steps: 
 - create a virtual env: conda create --name venv
 - do: pip install flask gunicorn
+- get all the files from here or create new
 - create and push all the files in a git repo: 
-  - - git add . 
-  - - git commit -m 'first commit'
-  - - git push
+  - git add . 
+  - git commit -m 'first commit'
+  - git push
 - do: heroku login
 - do: heroku create name_you_want_for_your_app
 - do: git push heroku master

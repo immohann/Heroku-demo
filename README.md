@@ -1,7 +1,8 @@
 # Heroku-demo
 A demo on hosting you ML model Flask app on heroku CLI using git.
-### Note: Heroku provides only 500MB of space for deployment in all. 
 
+### Note: Heroku provides only 500MB of space for deployment in all. 
+![img](https://www.fullstackpython.com/img/logos/heroku.png)
 _______________________
 ##### This is just a demo to deploy a Flask app on Heroku, there are plenty of other hosting platforms available like: [pythonanywhere](https://www.pythonanywhere.com/),[AWS](https://aws.amazon.com/getting-started/hands-on/launch-an-app/),[gcloud](https://cloud.google.com/ai-platform/prediction/docs/deploying-models) and more, do check them out.
 

@@ -41,4 +41,4 @@ create a virtual env
       git push heroku master
 - After the above command you'll get a link for the deployed app on your screen.
 
-For more detailed steps: [Heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) 
+For more detailed steps follow: [Heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) 
